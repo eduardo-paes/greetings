@@ -9,7 +9,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=green)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MAC OS](https://img.shields.io/badge/mac%20os-05122A?style=flat&logo=apple&logoColor=white)
+![MAC OS](https://img.shields.io/badge/Mac%20OS-05122A?style=flat&logo=apple&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
