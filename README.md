@@ -1,12 +1,18 @@
 # 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp; I'm currently studying Computer Engineering at the CEFET of Petropolis-RJ.\
-🧭 &nbsp; I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp; In my free time, I pursue Reading and Philosophy as hobbies/side hustles.\
-✉️ &nbsp; You can shoot me an email at <eduardo-paes@outlook.com>. I'll try to respond as soon as I can.
+🚀 Passionate about technology and driven to create innovative software solutions and quick hacks.
+
+🎓 Currently enrolled in Computer Engineering at CEFET, Petropolis-RJ, with a thirst for knowledge in Artificial Intelligence, Systems Design, and Cloud Architecture.
+
+📚 In my free time, I delve into the worlds of literature and philosophy, finding inspiration and creativity in their depths.
+
+📩 Feel free to reach out to me at <eduardo-paes@outlook.com>. I'll make it a priority to respond promptly. Let's connect and collaborate!
+
+---
 
 ### 🛠 &nbsp;Tech Stack
+
+I'm proficient in a diverse range of technologies and tools, including:
 
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=green)&nbsp;
@@ -20,6 +26,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
+I love exploring new technologies and am always eager to expand my skill set. If you have any tech-related questions or want to collaborate on a project, don't hesitate to reach out!
+
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -28,6 +38,8 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardo-paes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
