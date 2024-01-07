@@ -2,7 +2,7 @@
 
 🚀 Passionate about technology and driven to create innovative software solutions and quick hacks.
 
-🎓 Currently enrolled in Computer Engineering at CEFET, Petropolis-RJ, with a thirst for knowledge in Artificial Intelligence, Systems Design, and Cloud Architecture.
+🎓 Graduated in Computer Engineering from CEFET, Petropolis-RJ, with a thirst for knowledge in Artificial Intelligence, Systems Design, and Cloud Architecture.
 
 📚 In my free time, I delve into the worlds of literature and philosophy, finding inspiration and creativity in their depths.
 
